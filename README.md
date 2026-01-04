@@ -183,6 +183,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For issues and questions, please open an issue on GitHub.
 
 ---
-
-Built with ❤️ using Claude AI
 \`\`\`
